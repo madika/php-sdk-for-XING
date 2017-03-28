@@ -1,5 +1,5 @@
 {
-    "name": "bjoernschotte/php-sdk-for-XING",
+    "name": "madika/php-sdk-for-xing",
     "type": "library",
     "description": "PHP SDK for Xing API",
     "keywords": ["library","foo","composer"],
